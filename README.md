@@ -20,6 +20,12 @@
 
 ---
 
+## 🌟 Projects
+🧠 [AI Resume & Cover Letter Generator](https://roshinivankela.github.io/Resume-cover-letter-generator-AI/) — Smart tool to build resumes with AI  
+
+💡 [Real-time Code Editor](https://your-live-demo-link.com) — Live coding environment using HTML, CSS, JS  
+---
+
 ### 🌐 Connect with Me  
 
 <p align="center">
