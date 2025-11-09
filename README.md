@@ -48,8 +48,10 @@
 
 
 <p align="center">
-⭐ <b>If you like my profile, don’t forget to follow or star my repositories!</b> ⭐<br>
-💖 <i>Your support keeps me motivated to create more amazing projects!</i>
+  🌟 <b>“Every line of code is a step toward something amazing.”</b> 🌟  
+  <br>💖 <i>Made with passion by Roshini Vankela</i>
 </p>
+
+
 
 
